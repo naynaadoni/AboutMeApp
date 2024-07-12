@@ -70,7 +70,7 @@ struct ContentView: View {
                         .aspectRatio(contentMode: .fit)
                         .cornerRadius(15)
                         
-                    Text("Putting My Concert Pic in Here Again Because it was PITBULL!!!")
+                    Text("This pic again bc it was Pitbull!")
                         .foregroundColor(Color.blue)
                         .multilineTextAlignment(.center)
                         
